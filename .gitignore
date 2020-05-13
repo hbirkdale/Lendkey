@@ -1,0 +1,17 @@
+
+# Mac
+.DS_STORE
+
+# idea
+./deploy_elasys/idea/
+./deploy_elasys/__pycache__/
+./deploy_elasys/.pytest_cache/
+./deploy_elasys/venv/
+
+## Docker
+docker/.env.dev
+/.env
+
+## Eclipse
+.project
+.settings/
